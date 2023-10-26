@@ -1,0 +1,9 @@
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg-register {
+    background-image: url('image/regis1.jpg');
+    background-size: cover;
+}

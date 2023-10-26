@@ -1,0 +1,16 @@
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg-btn1{
+    background-color: seagreen;
+}
+
+.color1{
+    color: seagreen;
+}
+
+.btn-outline-primary{
+    border-color: seagreen;
+}

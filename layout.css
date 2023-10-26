@@ -1,0 +1,10 @@
+.layout {
+    margin: 30px 50px 30px 50px;
+    padding: 20px 100px 5px 100px;
+    height: max-content;
+    border-radius: 25px;
+}
+.index {
+    margin: 0px 100px 30px 100px;
+    padding: 20px;
+}
